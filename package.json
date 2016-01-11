@@ -1,0 +1,19 @@
+{
+  "name": "mini-eventbrite",
+  "version": "1.0.0",
+  "description": "innovation dept. code challenge",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lewis-Ho/CodeChallenge.git"
+  },
+  "author": "Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lewis-Ho/CodeChallenge/issues"
+  },
+  "homepage": "https://github.com/Lewis-Ho/CodeChallenge#readme"
+}
